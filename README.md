@@ -1,0 +1,1 @@
+The Current project is to re-create the Google Homepage as part of a learning exercise on the 'Odin Project'.
